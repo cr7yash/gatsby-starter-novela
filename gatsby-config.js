@@ -54,7 +54,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/open-peeps.png`,
+        icon: `src/assets/favicon.ico`,
       },
     },
     {
