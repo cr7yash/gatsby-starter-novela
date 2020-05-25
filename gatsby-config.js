@@ -49,12 +49,12 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `A thinking Dev`,
-        short_name: `Yash`,
+        short_name: `ATD`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/open-peeps.png`,
       },
     },
     {
