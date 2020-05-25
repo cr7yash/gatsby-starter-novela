@@ -3,6 +3,9 @@ title: My first post using Novela by Narative
 author: Yash Srivastava
 date: 2020-04-30
 hero: ./images/hero.jpg
+tags:
+  - 'Blog'
+  - 'Personal'
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
 
