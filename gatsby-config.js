@@ -11,11 +11,11 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/amadeus6996`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/cr7yash`,
       },
       {
         name: `instagram`,
@@ -23,11 +23,11 @@ module.exports = {
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `hhttps://www.linkedin.com/in/yash-srivastava-aba296104/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `facebook`,
+        url: `https://www.facebook.com/cr7yash96`,
       },
     ],
   },
