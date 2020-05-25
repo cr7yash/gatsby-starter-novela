@@ -1,0 +1,11 @@
+name: Yash Srivastava
+bio: |
+  An evergreen optimist, I am intrigued by the unknown and on a quest to know what is known. A software engineer by profession I have worked for companies where I have been able to gain experience about Artificial Intelligence and how the web works. Currently loving React.js and the apps that I can build through it. Follow me on my social profiles to be updated of what's new.
+avatar: ./avatars/Yash.jpg
+social:
+  - url: https://www.facebook.com/cr7yash96
+  - url: https://github.com/cr7yash
+  - url: https://twitter.com/amadeus6996
+  - url: https://www.linkedin.com/in/yash-srivastava-aba296104/
+  # - url: https://github.com
+featured: true
